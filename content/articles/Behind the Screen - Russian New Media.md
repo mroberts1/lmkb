@@ -1,5 +1,6 @@
 ---
 title: "Behind the Screen / Russian New Media"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

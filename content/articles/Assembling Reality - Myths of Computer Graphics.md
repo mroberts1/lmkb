@@ -1,5 +1,6 @@
 ---
 title: "Assembling Reality: Myths of Computer Graphics"
+date: 1992-01-01
 authors:
   - Lev Manovich
 tags:

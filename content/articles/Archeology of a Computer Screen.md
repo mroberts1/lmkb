@@ -1,5 +1,6 @@
 ---
 title: "Archeology of a Computer Screen"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

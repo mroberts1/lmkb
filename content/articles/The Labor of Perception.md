@@ -1,5 +1,6 @@
 ---
 title: "The Labor of Perception"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

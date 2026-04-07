@@ -1,5 +1,6 @@
 ---
 title: "Post-media Aesthetics"
+date: 2001-01-01
 authors:
   - Lev Manovich
 tags:

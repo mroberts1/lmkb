@@ -1,5 +1,6 @@
 ---
 title: "Navigable space"
+date: 1998-01-01
 authors:
   - Lev Manovich
 tags:

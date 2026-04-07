@@ -1,5 +1,6 @@
 ---
 title: "New Media from Borges to HTML"
+date: 2001-01-01
 authors:
   - Lev Manovich
 tags:

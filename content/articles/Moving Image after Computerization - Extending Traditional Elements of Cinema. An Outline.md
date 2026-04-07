@@ -1,5 +1,6 @@
 ---
 title: "Moving Image after Computerization - Extending Traditional Elements of Cinema. An Outline"
+date: 2003-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Avant-garde as Software"
+date: 1999-01-01
 authors:
   - Lev Manovich
 tags:

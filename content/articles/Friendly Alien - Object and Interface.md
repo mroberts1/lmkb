@@ -1,5 +1,6 @@
 ---
 title: "Friendly Alien: Object and Interface"
+date: 2006-01-01
 authors:
   - Lev Manovich
 tags:

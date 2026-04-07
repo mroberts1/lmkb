@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Korean Edition of _The Language of New Media_"
+date: 2003-01-01
 authors:
   - Lev Manovich
 tags:

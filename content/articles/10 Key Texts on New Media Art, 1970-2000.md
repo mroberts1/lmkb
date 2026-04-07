@@ -1,5 +1,6 @@
 ---
 title: "10 Key Texts on New Media Art, 1970-2000"
+date: 2002-01-01
 authors:
   - Lev Manovich
 tags:

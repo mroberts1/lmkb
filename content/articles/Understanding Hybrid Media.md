@@ -1,5 +1,6 @@
 ---
 title: "Understanding Hybrid Media"
+date: 2007-01-01
 authors:
   - Lev Manovich
 tags:

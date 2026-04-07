@@ -1,5 +1,6 @@
 ---
 title: "Generation Flash"
+date: 2002-01-01
 authors:
   - Lev Manovich
 tags:

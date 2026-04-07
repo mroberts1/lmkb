@@ -1,5 +1,6 @@
 ---
 title: "Abstraction and Complexity"
+date: 2004-01-01
 authors:
   - Lev Manovich
 tags:

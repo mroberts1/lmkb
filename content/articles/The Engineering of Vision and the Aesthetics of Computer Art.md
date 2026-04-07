@@ -1,5 +1,6 @@
 ---
 title: "The Engineering of Vision and the Aesthetics of Computer Art"
+date: 1994-01-01
 authors:
   - Lev Manovich
 tags:

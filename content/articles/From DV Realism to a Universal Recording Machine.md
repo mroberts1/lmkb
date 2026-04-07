@@ -1,5 +1,6 @@
 ---
 title: "From DV Realism to a Universal Recording Machine"
+date: 2001-01-01
 authors:
   - Lev Manovich
 tags:

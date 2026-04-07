@@ -1,5 +1,6 @@
 ---
 title: "Virtual Worlds: Report from Los Angeles"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Macro-media and Micro-media"
+date: 2000-01-01
 authors:
   - Lev Manovich
 tags:

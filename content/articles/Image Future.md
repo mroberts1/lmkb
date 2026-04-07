@@ -1,5 +1,6 @@
 ---
 title: "Image Future"
+date: 2006-01-01
 authors:
   - Lev Manovich
 tags:

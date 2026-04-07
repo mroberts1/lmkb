@@ -1,5 +1,6 @@
 ---
 title: "Jump over Proust"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

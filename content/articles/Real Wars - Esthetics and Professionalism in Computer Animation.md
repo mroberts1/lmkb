@@ -1,5 +1,6 @@
 ---
 title: "'Real' Wars: Esthetics and Professionalism in Computer Animation"
+date: 1991-01-01
 authors:
   - Lev Manovich
 tags:

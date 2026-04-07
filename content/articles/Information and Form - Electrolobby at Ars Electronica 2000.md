@@ -1,5 +1,6 @@
 ---
 title: "Information and Form: Electrolobby at Ars Electronica 2000"
+date: 2000-01-01
 authors:
   - Lev Manovich
 tags:

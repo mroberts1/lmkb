@@ -1,5 +1,6 @@
 ---
 title: "Import/Export: Design Workflow and Contemporary Aesthetics"
+date: 2006-01-01
 authors:
   - Lev Manovich
 tags:

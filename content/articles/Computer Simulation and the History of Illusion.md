@@ -1,5 +1,6 @@
 ---
 title: "Computer Simulation and the History of Illusion"
+date: 1999-01-01
 authors:
   - Lev Manovich
 tags:

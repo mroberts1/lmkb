@@ -1,5 +1,6 @@
 ---
 title: "The Mapping of Space: Perspective, Radar, and 3-D Computer Graphics"
+date: 1993-01-01
 authors:
   - Lev Manovich
 tags:

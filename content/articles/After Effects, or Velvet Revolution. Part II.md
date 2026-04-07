@@ -1,5 +1,6 @@
 ---
 title: "After Effects, or Velvet Revolution. Part II"
+date: 2006-01-01
 authors:
   - Lev Manovich
 tags:

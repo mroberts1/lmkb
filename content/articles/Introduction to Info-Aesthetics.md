@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Info-Aesthetics"
+date: 2005-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "New Media: A User’s Guide"
+date: 1999-01-01
 authors:
   - Lev Manovich
 tags:

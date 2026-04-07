@@ -1,5 +1,6 @@
 ---
 title: "The Shape of Information"
+date: 2005-01-01
 authors:
   - Lev Manovich
 tags:

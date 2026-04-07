@@ -1,5 +1,6 @@
 ---
 title: "Alan Kay’s Universal Media Machine"
+date: 2006-01-01
 authors:
   - Lev Manovich
 tags:

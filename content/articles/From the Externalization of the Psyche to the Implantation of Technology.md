@@ -1,5 +1,6 @@
 ---
 title: "From the Externalization of the Psyche to the Implantation of Technology"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Fashion Sites"
+date: 2001-01-01
 authors:
   - Lev Manovich
 tags:

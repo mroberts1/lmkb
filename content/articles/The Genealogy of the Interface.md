@@ -1,5 +1,6 @@
 ---
 title: "The Genealogy of the Interface"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

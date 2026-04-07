@@ -1,5 +1,6 @@
 ---
 title: "Filters, Plug-ins, and Menus - from Creation to Selection"
+date: 1998-01-01
 authors:
   - Lev Manovich
 tags:

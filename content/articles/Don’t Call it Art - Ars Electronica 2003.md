@@ -1,5 +1,6 @@
 ---
 title: "Don’t Call it Art: Ars Electronica 2003"
+date: 2003-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Information as an Aesthetic Event"
+date: 2007-01-01
 authors:
   - Lev Manovich
 tags:

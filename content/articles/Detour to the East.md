@@ -1,5 +1,6 @@
 ---
 title: "Detour to the East"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

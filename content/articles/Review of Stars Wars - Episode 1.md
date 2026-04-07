@@ -1,5 +1,6 @@
 ---
 title: "Review of Stars Wars: Episode 1"
+date: 1999-01-01
 authors:
   - Lev Manovich
 tags:

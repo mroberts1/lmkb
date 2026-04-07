@@ -1,5 +1,6 @@
 ---
 title: "The Practice of Everyday (Media) Life"
+date: 2008-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "The Paradoxes of Digital Photography"
+date: 1994-01-01
 authors:
   - Lev Manovich
 tags:

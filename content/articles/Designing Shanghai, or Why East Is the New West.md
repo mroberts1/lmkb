@@ -1,5 +1,6 @@
 ---
 title: "Designing Shanghai, or Why East Is the New West"
+date: 2007-01-01
 authors:
   - Lev Manovich
 tags:

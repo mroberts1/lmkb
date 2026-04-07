@@ -1,5 +1,6 @@
 ---
 title: "Cinema by Numbers"
+date: 1999-01-01
 authors:
   - Lev Manovich
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Automation of Sight: From Photography to Computer Vision"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

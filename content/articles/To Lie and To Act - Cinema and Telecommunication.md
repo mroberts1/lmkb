@@ -1,5 +1,6 @@
 ---
 title: "To Lie and To Act: Cinema and Telecommunication"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

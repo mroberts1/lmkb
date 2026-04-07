@@ -1,5 +1,6 @@
 ---
 title: "Zeuxis meets RealityEngine -  Digital Realism and Virtual Worlds"
+date: 1996-01-01
 authors:
   - Lev Manovich
 tags:

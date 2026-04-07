@@ -1,5 +1,6 @@
 ---
 title: "Who is the Author? Sampling / Remixing / Open Source"
+date: 2002-01-01
 authors:
   - Lev Manovich
 tags:

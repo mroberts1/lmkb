@@ -1,5 +1,6 @@
 ---
 title: "What is Digital Cinema?"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:

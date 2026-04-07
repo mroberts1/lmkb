@@ -1,5 +1,6 @@
 ---
 title: "On Totalitarian Interactivity"
+date: 1996-01-01
 authors:
   - Lev Manovich
 tags:

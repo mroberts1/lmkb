@@ -1,5 +1,6 @@
 ---
 title: "Cinema as a Cultural Interface"
+date: 1997-01-01
 authors:
   - Lev Manovich
 tags:

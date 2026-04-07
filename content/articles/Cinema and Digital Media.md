@@ -1,5 +1,6 @@
 ---
 title: "Cinema and Digital Media"
+date: 1995-01-01
 authors:
   - Lev Manovich
 tags:
