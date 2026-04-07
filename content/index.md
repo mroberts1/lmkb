@@ -1,29 +1,26 @@
 ---
-title: Knowledge Base Home
+title: lmkb
 created: 2026-04-03
-updated: 2026-04-03
+updated: 2026-04-06
 ---
 
-# Knowledge Base
+# Lev Manovich Knowledge Base
 
-Welcome to the LLM-managed knowledge base. This wiki is compiled and maintained by an LLM from source documents in `raw/`.
+An LLM-compiled knowledge base covering the writings of Lev Manovich (1991–2008), including 63 articles, 18 concept entries, and cross-referenced source summaries.
 
 ## Navigation
 
 - [[Master Index]] — Full directory of all concepts and sources
-- [[Concepts Index]] — All concept articles by category
-- [[Sources Index]] — All ingested source documents
-- [[Recent Changes]] — Latest updates to the wiki
 
-## Statistics
+### By Topic
 
-- **Concept articles:** 0
-- **Source summaries:** 0
-- **Total words:** 0
-- **Last compiled:** 2026-04-03
+- [[New Media Theory]] — Foundations of new media
+- [[Digital Cinema Index|Digital Cinema]] — Cinema, animation, and the digital image
+- [[Software Studies Index|Software Studies]] — Software as cultural form
+- [[Cultural Analytics Index|Cultural Analytics]] — Computational approaches to culture
 
-## Getting Started
+### By Type
 
-1. Add source documents to the `raw/` directory (articles, papers, repos, etc.)
-2. Ask the LLM to **"ingest"** to compile them into the wiki
-3. Ask questions, generate reports, or request **"lint"** for health checks
+- **[[concepts/|Concepts]]** — 18 concept articles
+- **[[sources/|Source Summaries]]** — 63 source summaries with links to full text
+- **[[articles/|Full-Text Articles]]** — 63 original articles (1991–2008)
