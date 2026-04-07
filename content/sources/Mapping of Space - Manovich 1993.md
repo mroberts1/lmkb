@@ -12,6 +12,9 @@ url:
 
 # The Mapping of Space: Perspective, Radar, and 3-D Computer Graphics
 
+> **[[The Mapping of Space - Perspective, Radar, and 3-D Computer Graphics|Read Full Text]]**
+
+
 ## Summary
 
 Manovich traces the history of **visual nominalism** — the use of vision to capture the identity of individual objects and spaces by recording distances and shapes — from Renaissance perspective through radar to interactive 3D computer graphics. He argues that perspective is not merely an artistic convention but a practical instrument for measuring and controlling reality, and that its automation by computers represents the culmination of a process that began with Alberti.

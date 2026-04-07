@@ -13,6 +13,9 @@ url:
 
 # After Effects, or Velvet Revolution. Part II
 
+> **[[After Effects, or Velvet Revolution. Part II|Read Full Text]]**
+
+
 ## Summary
 
 Part II continues the analysis of the Velvet Revolution, introducing 3D compositing as a new paradigm, the rise of motion graphics (typography and graphic design "imported" into moving images), and the key concept of **deep remixability** — not just mixing media content but the fundamental transformation of media techniques when they are extracted from their original physical medium and turned into algorithms.

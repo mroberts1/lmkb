@@ -12,6 +12,9 @@ url:
 
 # Moving Image after Computerization
 
+> **[[Moving Image after Computerization - Extending Traditional Elements of Cinema. An Outline|Read Full Text]]**
+
+
 ## Summary
 
 A schematic outline (not a fully developed essay) mapping how computerization has extended three traditional elements of cinema: (1) Frame/Camera/Space, (2) Image, and (3) Editing/Time/Narrative. Manovich catalogs key examples across each category, from panoramic cinema and 3D compositing to database cinema and VJ culture.

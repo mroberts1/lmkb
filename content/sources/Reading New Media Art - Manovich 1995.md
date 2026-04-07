@@ -11,6 +11,9 @@ url:
 
 # Reading New Media Art
 
+> **[[Reading New Media Art|Read Full Text]]**
+
+
 ## Summary
 
 A short exhibition review (NEWFOUNDLAND II) that addresses a fundamental problem of media art: the tension between aesthetic contemplation and the instrumental behaviors (problem solving, learning interfaces, experimentation) that interactive works demand. Manovich surveys several works that offer different solutions.

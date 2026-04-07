@@ -12,6 +12,9 @@ url:
 
 # New Media from Borges to HTML
 
+> **[[New Media from Borges to HTML|Read Full Text]]**
+
+
 ## Summary
 
 An introduction to the *New Media Reader* anthology that doubles as a comprehensive theoretical overview. Manovich provides a short institutional history of the new media field, then proposes **eight definitions of new media**, arguing that the book's key contribution is revealing the parallel development of modern art and computing after WWII. His boldest claim: computer scientists (Engelbart, Sutherland, Nelson, Berners-Lee) are the most important artists of our time.

@@ -12,6 +12,9 @@ url:
 
 # The Engineering of Vision and the Aesthetics of Computer Art
 
+> **[[The Engineering of Vision and the Aesthetics of Computer Art|Read Full Text]]**
+
+
 ## Summary
 
 Manovich argues that the rise of computer graphics, human-computer interfaces, and computer vision must be understood as part of the shift to **post-industrial society**, where vision becomes the primary instrument of labor. He traces a lineage from the 1920s avant-garde's desire to "engineer vision" through WWII radar operations to contemporary VR, proposing that the computer artist should be understood in relation to the computer graphics industry rather than in isolation.

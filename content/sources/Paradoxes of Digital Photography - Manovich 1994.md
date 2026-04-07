@@ -12,6 +12,9 @@ url:
 
 # The Paradoxes of Digital Photography
 
+> **[[The Paradoxes of Digital Photography|Read Full Text]]**
+
+
 ## Summary
 
 Manovich argues against the common claim that digital imaging represents a radical rupture with photography. Instead, the logic of digital photography is **paradoxical**: it simultaneously tears apart and reinforces the codes of photographic culture. He systematically dismantles William Mitchell's (*The Reconfigured Eye*) claims about fundamental physical differences between analog and digital images, then reframes 3D computer graphics as "socialist realism."

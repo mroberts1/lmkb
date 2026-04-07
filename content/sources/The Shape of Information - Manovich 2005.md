@@ -13,6 +13,9 @@ url:
 
 # The Shape of Information
 
+> **[[The Shape of Information|Read Full Text]]**
+
+
 ## Summary
 
 A short programmatic essay introducing the concept of **info-aesthetics** — a project to scan contemporary culture for emerging aesthetics and cultural forms specific to global information society. Manovich asks: has the shift from form to information flows been accompanied by new vocabularies of forms, new aesthetic sensibilities, and new iconologies?

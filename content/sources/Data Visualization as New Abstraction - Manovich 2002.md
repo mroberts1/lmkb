@@ -12,6 +12,9 @@ url:
 
 # Data Visualization as New Abstraction and Anti-Sublime
 
+> **[[Data Visualization as New Abstraction and Anti-Sublime|Read Full Text]]**
+
+
 ## Summary
 
 An essay analyzing data visualization and mapping as a new cultural form, arguing that it constitutes both a "new abstraction" and an "anti-sublime." Manovich examines visualization art projects (John Simon, Lisa Jevbratt, RSG's Carnivore) and proposes that data visualization reverses the Romantic sublime by mapping phenomena beyond human perception into manageable visual forms.

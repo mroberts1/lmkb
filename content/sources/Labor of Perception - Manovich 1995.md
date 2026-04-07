@@ -12,6 +12,9 @@ url:
 
 # The Labor of Perception
 
+> **[[The Labor of Perception|Read Full Text]]**
+
+
 ## Summary
 
 Manovich argues that the shift from industrial to post-industrial society entailed a parallel shift from disciplines of bodily efficiency (Taylorism, the "human motor") to disciplines of mental efficiency (cognitive science, human factors engineering). The **radar operator** of WWII is the pivotal figure who inaugurated this transformation, standing at the origin of cognitive science, human-computer interaction, and the broader regime of perceptual labor.

@@ -13,6 +13,9 @@ url:
 
 # Abstraction and Complexity
 
+> **[[Abstraction and Complexity|Read Full Text]]**
+
+
 ## Summary
 
 A major essay arguing that contemporary software-driven abstraction follows the paradigm of **complexity** rather than the **reduction** that defined modernist abstraction. Manovich traces how modernist art paralleled reductionist science (physics, chemistry, experimental psychology) in seeking basic elements, while today's software abstraction echoes complexity science (chaos theory, emergence, artificial life) in embracing dynamic, non-linear, evolving systems.

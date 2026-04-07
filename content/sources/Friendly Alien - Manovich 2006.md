@@ -12,6 +12,9 @@ url:
 
 # Friendly Alien: Object and Interface
 
+> **[[Friendly Alien - Object and Interface|Read Full Text]]**
+
+
 ## Summary
 
 A short essay on the relationship between physical objects and digital interfaces, using artist Miltos Manetas's paintings and visits to the Colette store and Eindhoven design school as springboards. Manovich argues that the interface is a "friendly alien" — integrated into daily life but still fundamentally discontinuous with the material objects that house it.

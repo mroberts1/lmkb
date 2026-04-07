@@ -12,6 +12,9 @@ url:
 
 # The Genealogy of the Interface
 
+> **[[The Genealogy of the Interface|Read Full Text]]**
+
+
 ## Summary
 
 A paper abstract (not a full essay) proposing that avant-garde aesthetic strategies of the 1920s became embedded in the commands and interface metaphors of computer software. The HCI is the materialization of the avant-garde vision.

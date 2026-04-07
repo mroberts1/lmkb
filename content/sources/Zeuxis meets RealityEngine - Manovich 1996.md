@@ -12,6 +12,9 @@ url:
 
 # Zeuxis meets RealityEngine: Digital Realism and Virtual Worlds
 
+> **[[Zeuxis meets RealityEngine - Digital Realism and Virtual Worlds|Read Full Text]]**
+
+
 ## Summary
 
 A major essay examining four distinctive features of realism in virtual worlds: realism as commodity, the shift from creation to selection, "Brecht as hardware" (the built-in self-deconstruction of digital illusion), and the "aggregate" (non-systematic) nature of computer-generated space. Manovich uses art-historical categories (Riegl, Panofsky, Wölfflin) to argue that virtual spaces have not even reached their "Renaissance" yet.

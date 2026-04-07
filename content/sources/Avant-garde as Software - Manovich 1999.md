@@ -12,6 +12,9 @@ url:
 
 # Avant-garde as Software
 
+> **[[Avant-garde as Software|Read Full Text]]**
+
+
 ## Summary
 
 A major essay arguing that the 1920s avant-garde's communication techniques became embedded in computer software, while the computer age's truly new avant-garde operates not on the level of forms but of information access and manipulation. Manovich traces four specific transformations (visual atomism → discrete data, montage → windows, New Typography → GUI, New Vision → 3D visualization) and theorizes "meta-media society" where the key cultural task shifts from recording reality to processing accumulated media.

@@ -12,6 +12,9 @@ url:
 
 # Post-media Aesthetics
 
+> **[[Post-media Aesthetics|Read Full Text]]**
+
+
 ## Summary
 
 A programmatic essay arguing that the concept of "medium" has become meaningless and proposing a replacement framework: **post-media aesthetics** based on concepts from software culture. Manovich sketches a new critical vocabulary organized around data structures, algorithms, software, interfaces, and **information behavior** — and argues that software itself should become a primary object of cultural analysis.

@@ -12,6 +12,9 @@ url:
 
 # From DV Realism to a Universal Recording Machine
 
+> **[[From DV Realism to a Universal Recording Machine|Read Full Text]]**
+
+
 ## Summary
 
 Manovich historicizes two opposing digital cinema aesthetics — **special effects spectacle** (Méliès tradition) and **DV realism** (Lumière tradition) — arguing that neither is genuinely new. What is truly unprecedented is the computer's capacity for **complete recording**: massive-scale capture and automated indexing of human experience across time, visual space, and social relationships.

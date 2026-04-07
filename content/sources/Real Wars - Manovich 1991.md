@@ -12,6 +12,9 @@ url:
 
 # "Real" Wars: Esthetics and Professionalism in Computer Animation
 
+> **[[Real Wars - Esthetics and Professionalism in Computer Animation|Read Full Text]]**
+
+
 ## Summary
 
 Manovich applies Pierre Bourdieu's sociology of taste (from *Distinction*) to the field of 3D computer animation in the early 1990s. He argues that the aesthetic standards of computer animation — [[Smoothness]], [[Complexity]], and the deliberate "[[Computer Look]]" — are not neutral markers of technical progress toward realism but function as **mechanisms of professional distinction** that separate professionals from amateurs and legitimate the status (and pricing) of design firms.

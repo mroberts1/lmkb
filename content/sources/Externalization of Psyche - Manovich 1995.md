@@ -12,6 +12,9 @@ url:
 
 # From the Externalization of the Psyche to the Implantation of Technology
 
+> **[[From the Externalization of the Psyche to the Implantation of Technology|Read Full Text]]**
+
+
 ## Summary
 
 Manovich traces a trajectory from the **externalization of the mind** — the recurrent modern claim that new visual technologies objectify mental processes — to the emerging possibility of **implanting technology back inside the body**. He argues that externalization served the needs of mass society for standardization: making private mental states public and regulable.

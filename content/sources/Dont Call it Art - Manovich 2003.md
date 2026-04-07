@@ -12,6 +12,9 @@ url:
 
 # Don't Call it Art: Ars Electronica 2003
 
+> **[[Don’t Call it Art - Ars Electronica 2003|Read Full Text]]**
+
+
 ## Summary
 
 A critical review of the 2003 Ars Electronica festival (theme: CODE) that broadens into a systematic analysis of where "digital art" / "software art" fits within the cultural landscape. Manovich argues that digital art is neither contemporary art (too medium-focused), nor modernism (lacks larger political/spiritual commitments), nor design (design field isn't devoted to "basic research"), but is closest in logic to computer science.

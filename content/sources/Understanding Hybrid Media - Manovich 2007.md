@@ -13,6 +13,9 @@ url:
 
 # Understanding Hybrid Media
 
+> **[[Understanding Hybrid Media|Read Full Text]]**
+
+
 ## Summary
 
 A polished synthesis of ideas from the After Effects essays, presenting Manovich's theory of **deep remixability** and **media hybridity** through analysis of works by Jeremy Blake, Takeshi Murata, and Ann Lislegaard. He argues that software-based production created a metamedium where previously separate media techniques interact to create genuinely new species, and that the resulting "aesthetics of continuity" — where all constants become variables — defines contemporary visual culture.

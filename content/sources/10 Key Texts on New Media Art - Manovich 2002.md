@@ -11,6 +11,9 @@ url:
 
 # 10 Key Texts on New Media Art
 
+> **[[10 Key Texts on New Media Art, 1970-2000|Read Full Text]]**
+
+
 ## Summary
 
 An annotated bibliography/essay lamenting the digital art field's absent long-term memory. Manovich selects 10 texts (Youngblood, Reichardt, Goodman, Kittler, Benedikt, Artintact, ISEA 94, Ars Electronica 95, Aarseth, Poschardt) and argues that the field lacks canonical critical texts. He critiques the Whitney's 2001 "Bitstreams" as reactionary compared to 1968-70 museum shows.

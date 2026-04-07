@@ -12,6 +12,9 @@ url:
 
 # What is Digital Cinema?
 
+> **[[What is Digital Cinema|Read Full Text]]**
+
+
 ## Summary
 
 One of Manovich's most influential essays. He argues that digital cinema is not a radical break from cinema's past but a **return to its pre-cinematic origins** in animation and manual image construction. The privileged role of photographic live-action footage in 20th-century cinema was a historical exception; digital tools restore cinema's identity as a branch of painting and animation.

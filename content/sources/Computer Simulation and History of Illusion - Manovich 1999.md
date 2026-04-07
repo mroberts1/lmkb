@@ -13,6 +13,9 @@ url:
 
 # Computer Simulation and the History of Illusion
 
+> **[[Computer Simulation and the History of Illusion|Read Full Text]]**
+
+
 ## Summary
 
 An expanded version of arguments from [[Paradoxes of Digital Photography - Manovich 1994]] and [[Zeuxis meets RealityEngine - Manovich 1996]], examining how computer-based illusionism differs from traditional visual illusionism. Manovich argues that synthetic images are not inferior representations of reality but "perfectly realistic representations of a different reality" — cyborg vision. He also analyzes the temporal oscillation between illusion and its suspension in interactive media as a structural feature of modern society, not a technological artifact.

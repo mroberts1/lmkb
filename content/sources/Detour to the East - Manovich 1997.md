@@ -11,6 +11,9 @@ url:
 
 # Detour to the East
 
+> **[[Detour to the East|Read Full Text]]**
+
+
 ## Summary
 
 A lyrical, semi-autobiographical essay reflecting on the Internet as an agent of modernization in Eastern Europe. Visiting an unnamed Eastern European city, Manovich encounters a young student's Internet art project that could have been made anywhere — and meditates on why culturally-specific Net art is a contradiction in terms.

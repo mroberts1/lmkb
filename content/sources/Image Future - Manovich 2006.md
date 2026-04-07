@@ -13,6 +13,9 @@ url:
 
 # Image Future
 
+> **[[Image Future|Read Full Text]]**
+
+
 ## Summary
 
 A major essay analyzing Universal Capture (U-cap) — the technique developed for *The Matrix* trilogy — as a paradigm for the future of images. Manovich traces the history of 3D computer graphics through two competing paradigms (reality simulation vs. reality sampling) and argues that Universal Capture represents their synthesis, creating a new hybrid image type that is photographic on the surface but structured entirely differently inside.

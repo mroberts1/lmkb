@@ -13,6 +13,9 @@ url:
 
 # After Effects, or Velvet Revolution. Part I
 
+> **[[After Effects, or Velvet Revolution. Part I|Read Full Text]]**
+
+
 ## Summary
 
 The first part of a two-part series analyzing the "Velvet Revolution" in moving image culture (1993–1998) — the gradual, almost invisible transformation during which previously separate media (cinematography, graphics, photography, animation, 3D animation, typography) started combining in numerous ways. Manovich centers After Effects software as both symbol and material foundation of this revolution, analyzing compositing, layers/transparency, and the shift from time-based to composition-based moving images.

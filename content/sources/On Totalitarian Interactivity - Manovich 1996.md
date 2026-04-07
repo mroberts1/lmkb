@@ -11,6 +11,9 @@ url:
 
 # On Totalitarian Interactivity
 
+> **[[On Totalitarian Interactivity|Read Full Text]]**
+
+
 ## Summary
 
 A provocative short essay arguing that interactive media is a form of manipulation and mental control, not liberation. Writing as a "post-communist subject," Manovich contrasts Western enthusiasm for interactivity as democracy with the Eastern European view of it as totalitarian control. He proposes that interactive media externalizes mental processes (association, memory, problem-solving) and asks users to mistake someone else's mental structure for their own.

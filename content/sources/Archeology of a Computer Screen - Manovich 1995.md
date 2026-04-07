@@ -12,6 +12,9 @@ url:
 
 # Archeology of a Computer Screen
 
+> **[[Archeology of a Computer Screen|Read Full Text]]**
+
+
 ## Summary
 
 Manovich constructs a genealogy of the screen as a cultural form, tracing it from Renaissance painting through cinema to the computer display and VR. He identifies three historical screen types (classical, dynamic, real-time) and examines the paradoxical relationship between the screen and the body: the progressive mobilization of the image was accompanied by the progressive imprisonment of the viewer.

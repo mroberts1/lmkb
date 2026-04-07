@@ -12,6 +12,9 @@ url:
 
 # Automation of Sight: From Photography to Computer Vision
 
+> **[[Automation of Sight - From Photography to Computer Vision|Read Full Text]]**
+
+
 ## Summary
 
 An expanded and more focused version of the perspective-automation argument from earlier essays. Manovich traces the automation of perspectival sight from Dürer's machines through photography to 3D computer graphics and computer vision, arguing that computer vision simultaneously represents the apotheosis of perspective and the beginning of its retreat — as researchers discover that perspectival images are too ambiguous for reliable 3D reconstruction and turn to alternative sensing technologies.

@@ -13,6 +13,9 @@ url:
 
 # The Practice of Everyday (Media) Life
 
+> **[[The Practice of Everyday (Media) Life|Read Full Text]]**
+
+
 ## Summary
 
 The final essay in the collection, analyzing the explosion of user-generated content and social media through Michel de Certeau's framework of strategies vs. tactics. Manovich argues that Web 2.0 has reversed the relationship: corporate strategies now mimic people's tactics (customization, remix, bricolage), while people's tactical creativity has become visible, permanent, and mappable. He also introduces concepts of "media conversations" and asks whether professional art can survive extreme democratization.

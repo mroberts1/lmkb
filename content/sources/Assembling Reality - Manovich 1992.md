@@ -12,6 +12,9 @@ url:
 
 # Assembling Reality: Myths of Computer Graphics
 
+> **[[Assembling Reality - Myths of Computer Graphics|Read Full Text]]**
+
+
 ## Summary
 
 Manovich tests three influential theories of cinematic realism — Bazin's idealist teleology, Comolli's Marxist structuralism, and Bordwell/Staiger's industrial model — against the history of 3D computer graphics. He finds each partially applicable but ultimately insufficient, arguing that CG realism is fundamentally different from photographic realism: it is **partial, uneven, and driven by specific sponsors** (the Pentagon and Hollywood).

@@ -12,6 +12,9 @@ url:
 
 # The Language of New Media (article)
 
+> **[[The Language of New Media (article)|Read Full Text]]**
+
+
 ## Summary
 
 A programmatic outline for what would become Manovich's landmark book *The Language of New Media* (2001). The article proposes four critical categories for analyzing new media — **interface**, **database**, **navigation**, and **spatialization** — and identifies two key genres of computer culture: the database and navigable space.

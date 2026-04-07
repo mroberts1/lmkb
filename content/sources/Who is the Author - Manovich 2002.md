@@ -12,6 +12,9 @@ url:
 
 # Who is the Author?
 
+> **[[Who is the Author Sampling - Remixing - Open Source|Read Full Text]]**
+
+
 ## Summary
 
 A systematic taxonomy of new authorship models enabled by new media: collaboration, interactivity-as-miscommunication, authorship-as-selection, company-user collaboration, author-software collaboration, remixing, sampling, open source, and brand-as-author. Manovich argues that remix culture calls for a new critical vocabulary that can work across media.

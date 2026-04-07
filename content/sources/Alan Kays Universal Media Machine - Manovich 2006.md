@@ -12,6 +12,9 @@ url:
 
 # Alan Kay's Universal Media Machine
 
+> **[[Alan Kay’s Universal Media Machine|Read Full Text]]**
+
+
 ## Summary
 
 A foundational essay for Manovich's software studies project, tracing how Alan Kay and collaborators at Xerox PARC in the 1970s turned the computer into a "metamedium" — not just simulating existing media but systematically augmenting them with new properties. Manovich argues against the "remediation" framework (Bolter/Grusin), showing that computational media was conceived from the start as fundamentally new, not merely a representation of old media.

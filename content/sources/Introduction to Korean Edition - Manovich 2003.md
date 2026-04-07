@@ -12,6 +12,9 @@ url:
 
 # Introduction to Korean Edition of The Language of New Media
 
+> **[[Introduction to Korean Edition of The Language of New Media|Read Full Text]]**
+
+
 ## Summary
 
 A short introduction for the Korean translation of *The Language of New Media* that reframes the book's approach through the metaphor of **remix**. Manovich identifies three types of remix operating in contemporary culture: postmodern remix (remixing cultural content), globalization remix (remixing national traditions), and new media remix (remixing culture and computers). He argues that "information aesthetics" will follow a different logic from industrial modernism.

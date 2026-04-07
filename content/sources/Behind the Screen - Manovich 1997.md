@@ -11,6 +11,9 @@ url:
 
 # Behind the Screen / Russian New Media
 
+> **[[Behind the Screen - Russian New Media|Read Full Text]]**
+
+
 ## Summary
 
 Manovich surveys Russian/post-communist approaches to new media art, arguing they offer valuable alternatives to Western default thematics. He identifies two main strategies: Moscow conceptualism's ironic suspicion of technology (Shulgin, Prigov), and a rethinking of "screen culture" as a historical tradition connecting old and new media (Lialina, Tobreluts).

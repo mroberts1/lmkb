@@ -13,6 +13,9 @@ url:
 
 # Cinema by Numbers
 
+> **[[Cinema by Numbers|Read Full Text]]**
+
+
 ## Summary
 
 An essay on the convergence of cinema and computer, using Konrad Zuse's punched film tape as an origin story for digital cinema. Manovich analyzes new media's material logic (automation, variability) and argues that despite this radical new logic, commercial cinema's visual language remains unchanged. He celebrates Vuk Cosic's ASCII films as artworks that "perform" the new status of media as digital data.

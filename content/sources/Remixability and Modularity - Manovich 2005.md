@@ -12,6 +12,9 @@ url:
 
 # Remixability and Modularity
 
+> **[[Remixability and Modularity|Read Full Text]]**
+
+
 ## Summary
 
 An essay analyzing the interconnected phenomena of remixability and modularity in contemporary culture. Manovich argues that remix culture operates on a continuum from professional to vernacular, that modularity has been the key principle of mass production since Ford, and that while culture has always involved remixing, digital technology has dramatically amplified this by modularizing culture at a structural level (pixels, layers, hypertext).

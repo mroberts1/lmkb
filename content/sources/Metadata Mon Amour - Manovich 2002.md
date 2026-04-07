@@ -13,6 +13,9 @@ url:
 
 # Metadata, Mon Amour
 
+> **[[Metadata, Mon Amour|Read Full Text]]**
+
+
 ## Summary
 
 An essay on the creative and epistemological potential of image metadata. Manovich argues that the cultural unit has shifted from a single image to a large-scale image database, and that "metadating the image" is not just an industrial problem but a new paradigm for interfacing reality. He identifies four interrelated directions: new structure, new interface, new image, new scale.

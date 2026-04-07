@@ -12,6 +12,9 @@ url:
 
 # To Lie and To Act: Cinema and Telecommunication
 
+> **[[To Lie and To Act - Cinema and Telecommunication|Read Full Text]]**
+
+
 ## Summary
 
 Manovich proposes two fundamental axes structuring the history of visual representations: **deception** (creating fake realities) and **action** (enabling manipulation of reality through representations). He traces the evolution of deception technologies from Potemkin's Villages through cinema, video keying, and digital compositing, then examines telepresence as a technology of action.

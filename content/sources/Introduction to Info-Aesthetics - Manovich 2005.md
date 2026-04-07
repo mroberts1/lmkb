@@ -13,6 +13,9 @@ url:
 
 # Introduction to Info-Aesthetics
 
+> **[[Introduction to Info-Aesthetics|Read Full Text]]**
+
+
 ## Summary
 
 The draft introduction to Manovich's planned book *Info-Aesthetics*, which investigates the cultural forms emerging from information society. He asks: if information processing is the defining characteristic of our world, what is its effect on the forms we design? The essay covers information visualization, the convergence of form and interface in ubiquitous computing, and argues that the exponential growth of available media is one of the main "pressure points" on contemporary culture.

@@ -13,6 +13,9 @@ url:
 
 # Cinema as a Cultural Interface
 
+> **[[Cinema as a Cultural Interface|Read Full Text]]**
+
+
 ## Summary
 
 One of Manovich's most important and comprehensive essays, later absorbed into *The Language of New Media*. He argues that the language of cultural interfaces in the 1990s is shaped by three competing traditions: the **printed word**, **cinema**, and **general-purpose HCI** — with cinema increasingly dominating. As computer culture translates cinematic grammar into software and hardware, cinema is becoming the universal cultural interface.

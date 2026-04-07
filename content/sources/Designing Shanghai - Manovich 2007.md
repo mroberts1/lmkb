@@ -12,6 +12,9 @@ url:
 
 # Designing Shanghai, or Why East Is the New West
 
+> **[[Designing Shanghai, or Why East Is the New West|Read Full Text]]**
+
+
 ## Summary
 
 A long observational essay based on Manovich's extended stays in Shanghai (2005-2006) arguing that Asia — and Shanghai in particular — has embraced contemporary design more widely and inventively than the West. He examines creative industry hubs (Bridge 8, X2, New Factories), compares consumer spaces across Asia, Europe, and North America, and proposes that "East is the new West" because these countries built their consumer infrastructure during the design/branding era.

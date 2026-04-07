@@ -12,6 +12,9 @@ url:
 
 # Navigable Space
 
+> **[[Navigable space|Read Full Text]]**
+
+
 ## Summary
 
 A long, wide-ranging essay (later a chapter in *The Language of New Media*) exploring navigable 3D space as a key cultural form of computer culture. Manovich surveys computer games, VRML, motion simulators, scientific visualization, and art projects to analyze how spatial navigation through virtual environments becomes a dominant mode of interacting with all kinds of data and cultural content.

@@ -12,6 +12,9 @@ url:
 
 # Import/Export: Design Workflow and Contemporary Aesthetics
 
+> **[[Import-Export - Design Workflow and Contemporary Aesthetics|Read Full Text]]**
+
+
 ## Summary
 
 An essay arguing that the import/export commands enabling compatibility between software applications are historically more important than the individual operations these programs offer. The cross-application workflow — creating elements in one program, importing into another, combining with elements from yet another — is the material basis of contemporary hybrid visual aesthetics.

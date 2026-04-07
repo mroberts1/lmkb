@@ -12,6 +12,9 @@ url:
 
 # Database as a Symbolic Form
 
+> **[[Database as a Symbolic Form|Read Full Text]]**
+
+
 ## Summary
 
 One of Manovich's most famous and influential essays, later a chapter in *The Language of New Media*. Following Panofsky's analysis of linear perspective as the "symbolic form" of the modern age, Manovich argues that the **database** is the new symbolic form of the computer age — a new way to structure experience of ourselves and the world. The essay maps the opposition between database and narrative onto the semiological categories of paradigm and syntagm, arguing that new media reverses their traditional relationship.

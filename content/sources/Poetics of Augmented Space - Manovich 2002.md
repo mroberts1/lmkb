@@ -12,6 +12,9 @@ url:
 
 # The Poetics of Augmented Space
 
+> **[[The Poetics of Augmented Space|Read Full Text]]**
+
+
 ## Summary
 
 A major essay (updated 2005) proposing **augmented space** as the key concept for understanding 21st-century spatial culture. Manovich argues that after the 1990s' fascination with virtual space, attention has shifted to physical space overlaid with dynamic information — via surveillance, cellspace/mobile media, and electronic displays. He reframes augmentation as an aesthetic and cultural problem with deep historical roots, not merely a technological one.

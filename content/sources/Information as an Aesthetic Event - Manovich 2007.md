@@ -12,6 +12,9 @@ url:
 
 # Information as an Aesthetic Event
 
+> **[[Information as an Aesthetic Event|Read Full Text]]**
+
+
 ## Summary
 
 An essay analyzing the shift in user interface design from the "invisible interface" paradigm to treating interaction as an explicitly aesthetic **event** and **experience**. Manovich traces this through OS 9 → OS X (Aqua), LG Chocolate phone, and iPhone, connecting it to broader trends of aestheticization of information tools, experience economy, and supermodernist design.

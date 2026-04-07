@@ -12,6 +12,9 @@ url:
 
 # Jump over Proust
 
+> **[[Jump over Proust|Read Full Text]]**
+
+
 ## Summary
 
 Manovich calls for multimedia writing that can represent human subjectivity and the thinking process with greater fidelity than literature or cinema have achieved. He looks to Eisenstein, Marker, and especially Godard as models, and argues that software concepts (relational databases, control structures, hierarchical file systems) are already better "artistic visions of our inner life" than most multimedia art.

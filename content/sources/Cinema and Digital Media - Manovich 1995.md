@@ -12,6 +12,9 @@ url:
 
 # Cinema and Digital Media
 
+> **[[Cinema and Digital Media|Read Full Text]]**
+
+
 ## Summary
 
 A compact essay arguing that cinema and the digital computer are not separate histories but deeply intertwined — cinema literally gave birth to the computer, prepared audiences for digital media concepts, and established the representational conventions that digital simulation now mimics.

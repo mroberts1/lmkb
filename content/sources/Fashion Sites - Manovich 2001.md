@@ -12,6 +12,9 @@ url:
 
 # Fashion Sites
 
+> **[[Fashion Sites|Read Full Text]]**
+
+
 ## Summary
 
 A brief, provocative column arguing that fashion has become the art form most concerned with reimagining the human figure — a role that visual art abandoned in the 20th century. Manovich reviews several fashion websites (firstview.com, Costume National, Louis Vuitton, Nike iD) as examples of web design at its best and as windows into the future of personalization.

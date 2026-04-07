@@ -12,6 +12,9 @@ url:
 
 # Scale Effects
 
+> **[[Scale Effects|Read Full Text]]**
+
+
 ## Summary
 
 A lecture outline proposing **scaling** as an overarching concept for understanding the cultural effects of computerization. Manovich argues that computers radically scale up existing cultural and social forms, leading to new qualitative effects. He provides examples across speed, size, and media redefinition, and introduces the concept of "art after compression."

@@ -12,6 +12,9 @@ url:
 
 # Social Data Browsing
 
+> **[[Social Data Browsing|Read Full Text]]**
+
+
 ## Summary
 
 A short essay on Golan Levin's *The Dumpster* (2006, commissioned by Tate Modern) as exemplifying a new genre Manovich calls the "social data browser" — a representation that links individual experience and larger social groupings without subsuming one in the other. He frames this through the historical paradox of 19th-century art (Flaubert, Tolstoy) and sociology (Comte, Durkheim) developing simultaneously but in opposite directions.

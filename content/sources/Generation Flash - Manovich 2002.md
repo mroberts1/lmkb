@@ -12,6 +12,9 @@ url:
 
 # Generation Flash
 
+> **[[Generation Flash|Read Full Text]]**
+
+
 ## Summary
 
 A multi-part essay identifying a new generation of artists who work in Flash/Shockwave and write their own code, representing a shift from media critique to **software critique** and from commercial media sampling to original code-based creation. Manovich distinguishes three figures — the romantic artist, the media artist (post-modern parasite), and the **software artist** (new romantic) — and analyzes Flash aesthetics through biology, amplification, and the politics of bandwidth.

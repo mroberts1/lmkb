@@ -12,6 +12,9 @@ url:
 
 # Review of Stars Wars: Episode 1
 
+> **[[Review of Stars Wars - Episode 1|Read Full Text]]**
+
+
 ## Summary
 
 A playful, essayistic review of *The Phantom Menace* written from San Diego — military town, former student movement hotbed, now home to Java textbooks. Manovich reads the film as a display of computational resources, a "shameless advertisement for NATO," and the ultimate military parade rendered in pixels. The review combines personal memoir, cultural criticism, and analysis of digital cinema aesthetics.

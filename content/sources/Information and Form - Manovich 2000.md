@@ -12,6 +12,9 @@ url:
 
 # Information and Form
 
+> **[[Information and Form - Electrolobby at Ars Electronica 2000|Read Full Text]]**
+
+
 ## Summary
 
 A short essay-review of the Electrolobby at Ars Electronica 2000, framed around the fundamental tension between **form** and **information** in the shift from modernism to what Manovich calls "informationalism." Modernism sought good form (Malevich, Mondrian, Arp); information society produces dynamic, immaterial networks that resist solidifying into objects.

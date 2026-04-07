@@ -12,6 +12,9 @@ url:
 
 # New Media: A User's Guide
 
+> **[[New Media - A User’s Guide|Read Full Text]]**
+
+
 ## Summary
 
 A systematic overview of new media's origins and principles, later absorbed into *The Language of New Media*. Manovich traces the parallel histories of modern media (Daguerre, Lumière) and computing (Babbage, Hollerith, Turing, Zuse) and identifies four key principles of new media: discrete representation, numerical representation, automation, and variability.

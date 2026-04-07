@@ -12,6 +12,9 @@ url:
 
 # Macro-media and Micro-media
 
+> **[[Macro-media and Micro-media|Read Full Text]]**
+
+
 ## Summary
 
 A short, prescient essay identifying two divergent trajectories for digital media beyond the "broadband" frontier of television-quality video. **Macro-media** envisions ultra-high-resolution wall-filling displays with multi-frame narratives and mixed media. **Micro-media** identifies a persistent counter-trajectory of minimalist, low-resolution media that keeps migrating to new platforms (cell phones, PDAs) as older platforms gain resolution.

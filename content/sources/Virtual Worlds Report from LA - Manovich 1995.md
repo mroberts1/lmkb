@@ -11,6 +11,9 @@ url:
 
 # Virtual Worlds: Report from Los Angeles
 
+> **[[Virtual Worlds - Report from Los Angeles|Read Full Text]]**
+
+
 ## Summary
 
 A brief report on the trend toward spatialization in computer culture — from VRML and chat environments to scientific visualization and computer games. Manovich notes that computer culture is increasingly mapping all information, narrative, and even time onto 3D space, and asks what the visual aesthetics of spatialized cyberspace will be. The piece ends without resolving this question.

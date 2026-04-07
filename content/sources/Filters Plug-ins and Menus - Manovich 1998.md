@@ -13,6 +13,9 @@ url:
 
 # Filters, Plug-ins, and Menus
 
+> **[[Filters, Plug-ins, and Menus - from Creation to Selection|Read Full Text]]**
+
+
 ## Summary
 
 An expanded version of the "creation to selection" argument from [[Zeuxis meets RealityEngine - Manovich 1996]], combined with the "cinema as interface" thesis from [[Cinema as Cultural Interface - Manovich 1997]]. Manovich argues that digital tools encode existing cultural norms as defaults, making it difficult for users to imagine alternatives — with cinema's language being the most consequential default being embedded in software.

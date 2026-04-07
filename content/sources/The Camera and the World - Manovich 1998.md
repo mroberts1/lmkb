@@ -12,6 +12,9 @@ url:
 
 # The Camera and the World
 
+> **[[The Camera and the World|Read Full Text]]**
+
+
 ## Summary
 
 An essay on Tamás Waliczky's aesthetic research, arguing that his work systematically maps the space where new ways to structure the virtual world and new ways to see it meet. Waliczky is characterized as a maker of "virtual documentaries" — each work creates a world structured in a unique way, then documents it with a camera that is inseparable from the world itself.

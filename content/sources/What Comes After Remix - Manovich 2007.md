@@ -12,6 +12,9 @@ url:
 
 # What Comes After Remix?
 
+> **[[What Comes After Remix|Read Full Text]]**
+
+
 ## Summary
 
 An essay surveying remix culture across news, user-generated content, music, fashion, design, art, and software mash-ups, then asking: what comes after remix? Manovich traces the evolution of remixing from Tom Moulton's "chaste" 1972 disco remixes to aggressive sampling, analyzes why "remix" is better than "appropriation" as a term, and notes that while remixing is officially accepted in music, in other media it's considered copyright violation.
